@@ -1,4 +1,3 @@
-# test
-test test test test test test 
+# Layout med Flexbox
 
-Her finder du vores sprint projekt...
+Øvelse i klassen.
